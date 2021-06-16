@@ -1,0 +1,22 @@
+{
+  "name": "peter-cp02",
+  "version": "1.0.0",
+  "description": "A very useful program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-van-der-voorn/peter-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-van-der-voorn/peter-CP02/issues"
+  },
+  "homepage": "https://github.com/peter-van-der-voorn/peter-CP02#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
